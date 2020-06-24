@@ -1,0 +1,35 @@
+.carousel {
+}
+.wrap {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+.controllers_wrap {
+    display: flex;
+}
+.carousel_controller {
+    border-radius: 100%;
+    margin: 0 20px;
+    width: 10px;
+    height: 10px;
+    background: #005FA3;
+    opacity: .5;
+}
+.active {
+    opacity: 1;
+}
+.carousel_arrows {
+    display: flex;
+}
+.carousel_arrow {
+    background-repeat: no-repeat;
+    background-color: #005FA3;
+    background-position: center;
+    background-size: 15px;
+    padding: 1.875rem;
+}
+.prev {
+    opacity: .6;
+}

@@ -1,0 +1,22 @@
+.clients-container {
+    background: #EBEBEB;
+}
+.clients-slider_item {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.client {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 1rem;
+    object-fit: contain;
+    padding-bottom: 1rem;
+}
+.client img {
+    width: 250px;
+}

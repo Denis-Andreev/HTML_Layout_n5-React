@@ -1,0 +1,9 @@
+.copyright {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 110px;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 19px;
+}

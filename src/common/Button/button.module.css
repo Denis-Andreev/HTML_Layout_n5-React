@@ -1,0 +1,14 @@
+.button {
+    padding: 1.19rem 3.5rem;
+    font-size: 1.125rem;
+    line-height: 25px;
+    color: white;
+    text-align: center;
+    background: #005FA3;
+    border: none;
+}
+.button:hover {
+    outline: 1px solid black;
+    background: white;
+    color: black;
+}
